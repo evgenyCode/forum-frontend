@@ -1,0 +1,14 @@
+.wrapper{
+    padding: 0.5rem;
+    border: 1px rgba(215, 184, 245, 0.75) solid;
+    margin: auto;
+    border-radius: 1.5rem;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    box-shadow: 0px 1px 19px 1px rgba(60,42,77,0.75);
+    cursor: pointer;
+    transition: 0.3s;
+  
+}

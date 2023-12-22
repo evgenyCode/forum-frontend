@@ -1,0 +1,19 @@
+
+
+.wrapper {
+    border: 2px solid #ccc; 
+    padding: 20px; 
+  }
+  
+  .question {
+    margin-bottom: 15px; 
+    border-bottom: 1px solid #ddd; 
+    padding-bottom: 10px; 
+  }
+  
+  .question:last-child {
+    border-bottom: none; 
+  }
+  
+
+  

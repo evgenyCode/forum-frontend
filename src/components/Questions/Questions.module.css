@@ -1,0 +1,21 @@
+
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 4rem;
+  }
+  
+  .question {
+    border-bottom: 1px solid #ccc; 
+    padding: 10px;
+    cursor: pointer;
+    width: 50%; 
+    text-align: center;
+  }
+  
+  .question:hover {
+    background-color: #f0f0f0; 
+  }
+  

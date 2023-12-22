@@ -1,0 +1,32 @@
+.wrapper {
+    height: 100px;
+    background-color: #353436;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  
+  .logo {
+    text-decoration: none;
+  }
+  
+  .logo h2 {
+    height: 90px;
+    color: white;
+    display: flex;
+    align-items: center;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .navbar {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
